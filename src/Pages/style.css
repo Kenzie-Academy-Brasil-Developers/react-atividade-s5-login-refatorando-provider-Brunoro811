@@ -1,0 +1,15 @@
+.Container{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+}
+.Container h1{
+    color: #ffffff;
+    padding: 20px;
+}
+.Logo{
+    width: 100%;
+    max-width: 200px;
+}
